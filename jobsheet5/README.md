@@ -7,6 +7,7 @@ Karena pada variabel "uktLunas" disitu sudah bertipe boolean,yang artinya ia han
 Karena kita belum menambahkan kondisi else pada kode if tersebut maka ketika kita isi di terminal false maka program akan berhenti atau tidak lanjut berjalan.
 
 ## Modifikasi Program dengan Struktur ELSE
-![Teks Alternatif](gambar\praktikum53.png)
+![Teks Alternatif](jobsheet5/gambar/praktikum53.png)
+
 
 
