@@ -6,8 +6,6 @@
 | **Absen**                | 1                                |
 | **Kelas**                | TI 1C                             |
 | **Mata Kuliah**          | Praktikum Dasar Pemrograman (Daspro) |
-| **Dosen Pengampu**       | Team Teaching Dasar Pemrograman 2025 |
-| **Institusi**            | Politeknik Negeri Malang          |
 
 ## Percobaan 1 - ifCetakKRSNoPresensi.java
 
