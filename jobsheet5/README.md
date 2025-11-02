@@ -35,9 +35,9 @@ default berfungsi sebagai penangan kondisi ketika tidak ada satu pun case yang c
 
 ### 3.Hasil Modif if else if
 
-![Output](gambar\praktikum57.png)
+![Output](gambar/praktikum57.png)
 
-![Output](gambar\praktikum58.png)
+![Output](gambar/praktikum58.png)
 
 
 ## Percobaan 3: Nested IF untuk Mengecek Syarat Ujian Skripsi 
