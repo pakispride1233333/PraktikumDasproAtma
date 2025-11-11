@@ -2,4 +2,4 @@
 
 2.Null dapat muncul ketika terdapat elemen atau indeks pada array yang belum kita isi.
 
-3.
+3."penonton.length" digunakan untuk mengetahui jumlah baris atau jumlah array utama di dalam array 2 dimensi.    
